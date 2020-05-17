@@ -1,4 +1,5 @@
 # svelte app
+code: 
 
 This is a project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/sveltejs/template.
 
